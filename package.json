@@ -1,0 +1,37 @@
+{
+  "name": "add-event-handler",
+  "version": "1.0.0",
+  "description": "Unifies adding event handlers across environments",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start --single-run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mightyiam/add-event-handler.git"
+  },
+  "keywords": [
+    "addEventListener",
+    "attachEvent",
+    "browser",
+    "node"
+  ],
+  "author": "Shahar Or <mightyiampresence@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mightyiam/add-event-handler/issues"
+  },
+  "homepage": "https://github.com/mightyiam/add-event-handler",
+  "devDependencies": {
+    "detect-node": "^2.0.3",
+    "fire-native-event": "^2.0.0",
+    "jasmine-core": "^2.1.3",
+    "jsdom": "^3.0.2",
+    "karma": "^0.12.31",
+    "karma-browserify": "^3.0.0",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-firefox-launcher": "^0.1.4",
+    "karma-jasmine": "^0.3.5",
+    "synthetic-dom-events": "^0.2.2"
+  }
+}
