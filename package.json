@@ -1,7 +1,7 @@
 {
   "name": "add-event-handler",
   "version": "1.0.0",
-  "description": "Unifies adding event handlers across environments",
+  "description": "Unifies adding event handlers across browsers",
   "main": "index.js",
   "scripts": {
     "test": "karma start --single-run"
