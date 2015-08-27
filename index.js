@@ -3,7 +3,7 @@
 
 module.exports = function(element, type, handler) {
     if (element.addEventListener) {
-        return element.addEventListener(type, handler);
+        return element.addEventListener(type, handler, false);
     } else if (element.attachEvent) {
         return element.attachEvent("on" + type, handler);
     } else {
