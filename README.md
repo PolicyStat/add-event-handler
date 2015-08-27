@@ -7,4 +7,4 @@ var add = require("add-event-handler");
 add(element, type, handler);
 ```
 
-There isn't much more, really.
+Copyright 2015 PolicyStat LLC

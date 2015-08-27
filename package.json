@@ -17,7 +17,7 @@
     "node"
   ],
   "author": "Shahar Or <mightyiampresence@gmail.com>",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/mightyiam/add-event-handler/issues"
   },
