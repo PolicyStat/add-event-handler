@@ -1,6 +1,6 @@
 {
   "name": "add-event-handler",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Unifies adding event handlers across browsers",
   "main": "index.js",
   "scripts": {
